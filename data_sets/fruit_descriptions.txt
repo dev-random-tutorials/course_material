@@ -1,0 +1,15 @@
+Apple: A round fruit with a red, green, or yellow skin and a white, crunchy interior. Can be sweet or tart depending on the variety.
+Orange: A round or oval fruit with a thin, orange skin and a juicy, orange interior. High in vitamin C.
+Banana: A long, curved fruit with a yellow skin and a soft, sweet interior. A good source of potassium.
+Peach: A round or oval fruit with a fuzzy skin and a soft, sweet interior. Often used in pies and cobblers.
+Kiwi: A small, oval fruit with a green or brown skin and a juicy, green interior. High in vitamin C and potassium.
+Strawberry: A small, red fruit with a sweet, juicy interior and a hull on the top. Often used in desserts and as a topping for yogurt or cereal.
+Raspberry: A small, red or black fruit with a sweet, juicy interior and a hollow center. Often used in jams and jellies.
+Blackberry: A small, black or purple fruit with a sweet, juicy interior and a hollow center. Often used in pies and as a topping for yogurt or cereal.
+Papaya: A large, oval fruit with a yellow or orange skin and a sweet, orange interior. High in vitamins A and C.
+Durian: A large, spiky fruit with a tough, brown skin and a pungent, creamy interior. Often described as having a "stinky" smell.
+Mango: A round or oval fruit with a smooth, yellow or orange skin and a sweet, juicy interior. High in vitamins A and C.
+Pineapple: A large, oblong fruit with a tough, spiky skin and a juicy, sweet interior. High in vitamin C and manganese.
+Lychee: A small, round fruit with a rough, pink or red skin and a sweet, juicy interior. Often used in desserts and smoothies.
+Dragonfruit: A large, oval fruit with a pink or red skin and a white or pink interior with small, black seeds. Often used in smoothies and as a garnish.
+Acai: A small, round fruit with a deep purple skin and a sweet, creamy interior. Often used in smoothies and as a topping for yogurt or cereal.
