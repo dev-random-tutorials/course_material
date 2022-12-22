@@ -1,0 +1,18 @@
+Language;Popularity Score;Typing;Designed;First Appeared;Latest Stable Release;Creator;Influenced By;Influenced;Used In
+Java;100;Static;James Gosling;1995;Java 16;James Gosling;C++, Smalltalk;Kotlin, Scala;Web development, Android app development
+C;95;Static;Dennis Ritchie;1972;C 18;Dennis Ritchie;BCPL, B;C++, C#, D, Objective-C, Swift;System programming, Embedded systems
+C++;90;Static;Bjarne Stroustrup;1983;C++ 20;Bjarne Stroustrup;C;C#, D, Java, Swift;System programming, Desktop applications
+Python;85;Dynamic;Guido van Rossum;1991;Python 3.10;Guido van Rossum;ABC, Modula-3;Go, Ruby, Swift;Web development, Data analysis, Scientific computing
+C#;80;Static;Microsoft;2000;C# 9.0;Microsoft;C, C++, Java;F#, Swift;Desktop applications, Windows app development
+JavaScript;75;Dynamic;Brendan Eich;1995;ECMAScript 2021;Brendan Eich;Java, Scheme, Self;CoffeeScript, TypeScript;Web development
+PHP;70;Dynamic;Rasmus Lerdorf;1995;PHP 8.0;Rasmus Lerdorf;C, Perl;Hack;Web development
+Ruby;65;Dynamic;Yukihiro "Matz" Matsumoto;1995;Ruby 3.0;Yukihiro Matsumoto;Perl, Smalltalk, Lisp;Crystal, Elixir, Swift;Web development, Data analysis
+Swift;60;Static;Apple Inc.;2014;Swift 5.4;Apple Inc.;C, Objective-C;Kotlin, Rust;iOS app development
+Objective-C;55;Static;Brad Cox;1983;Objective-C 2.0;Brad Cox;C;Swift;iOS app development
+Perl;50;Dynamic;Larry Wall;1987;Perl 6;Larry Wall;C, awk, sed, sh;Python, Ruby;Web development, System administration
+Go;45;Static;Google;2009;Go 1.16;Google;C, Pascal, Modula-2;Rust, Swift;System programming, Web development
+Scala;40;Static;Martin Odersky;2004;Scala 2.14;Martin Odersky;Java, ML, Haskell;Kotlin, Swift;Web development, Data analysis
+R;35;Dynamic;Robert Gentleman, Ross Ihaka;1993;R 4.0.5;Robert Gentleman, Ross Ihaka;S, Lisp;Julia;Data analysis, Scientific computing
+Kotlin;30;Static;JetBrains;2011;Kotlin 1.5;JetBrains;Java, C#;Swift;Android app development
+Visual Basic;25;Static;Microsoft;1991;Visual Basic 15.9;Microsoft;BASIC, FORTRAN;C#, F#;Desktop applications
+Lua;20;Dynamic;Roberto Ierusalimschy, Luiz Henrique de Figueiredo, Waldemar Celes;1993;Lua 5.4;Roberto Ierusalimschy, Luiz Henrique de Figue
